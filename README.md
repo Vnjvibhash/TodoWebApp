@@ -43,7 +43,7 @@ Ensure you have the following installed on your local machine:
    ```
 
 ## Project Structure
-    ```bash
+   ```bash
     lib/
     ├── data/
     │   ├── models/
@@ -53,4 +53,4 @@ Ensure you have the following installed on your local machine:
     ├── screen/
     │   └── home_screen.dart
     └── main.dart
-    ```
+   ```
